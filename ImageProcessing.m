@@ -1,7 +1,6 @@
 %{
- 
-Class: CECS 271 
-Student: James Henry 
+
+Author: James Henry 
 Program: ImageProcessing.m
 Goal: Create a program that takes care of the processes of image processing
 in MATLAB
